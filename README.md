@@ -19,4 +19,4 @@ Nome do Estudante
 
 
 
-![logo_ipl_header](/Users/rubenferreira/Desktop/FP-Markdown/logo_ipl_header.png)
+https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png
